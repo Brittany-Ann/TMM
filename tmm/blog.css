@@ -1,0 +1,14 @@
+body{
+    background: url(lilywallpaper.jpg) no-repeat center center fixed;
+}
+.pom{
+    margin-top: 0.5in;
+    margin-left: 5%;
+    height: 2in;
+    width: 2in;
+}
+.blogpost{
+    color: black;
+    text-align: left;
+    font-size: 150%;
+}

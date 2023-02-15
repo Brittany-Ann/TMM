@@ -1,0 +1,15 @@
+body{
+  height: 100%;
+  margin: 0;
+  font-family: Lucida Bright, serif;
+  background: url(hpkitchen.jpg) no-repeat center center fixed;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  color: black;
+  display: grid;
+  justify-content: center;
+}
+.bloglink{
+height: 0.5in;
+width: 0.5in;
+}
