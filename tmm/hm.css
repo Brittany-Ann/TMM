@@ -1,0 +1,14 @@
+body{
+    background-image: url(hmbg1.jpg);
+    background-position: right top;
+    background-repeat: no-repeat;
+    background-color: #e9e3e3;
+    font-family: sans-serif;
+}
+p{
+    font-size: 20px;
+}
+.binderintro{
+    height: 1in;
+    width: 3in;
+}

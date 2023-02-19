@@ -10,6 +10,16 @@ body{
   justify-content: center;
 }
 .bloglink{
-height: 0.5in;
-width: 0.5in;
+height: 400px;
+width: 400px;
+}
+.hmlink{
+height: 200px;
+width: 200px;
+margin-top: 1.5in;
+}
+.parent{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 5px;
 }

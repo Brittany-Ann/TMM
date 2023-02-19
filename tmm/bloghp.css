@@ -1,0 +1,11 @@
+body{
+    background-image: url(bhp.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.amlink{
+    height: 0.8in;
+    width: 1.6in;
+    margin-left: 1in;
+    margin-top: 0.1in;
+}
